@@ -35,11 +35,11 @@ function cutCake() {
   const message = document.getElementById("message");
   message.innerHTML =
     "My love ❤️<br><br>" +
-    "Every moment with you feels like magic.<br>" +
-    "You are my happiness, my peace,<br>" +
-    "and my forever dream 💖<br><br>" +
-    "Happy Birthday, my Rasmalaii 💕<br>" +
-    "<b>I love you endlessly.</b>";
+    "Distance can never stop me from loving YOU ❤️.<br>" +
+    "You are my rasmalaii, my best friend,<br>" +
+    "and my forever wish 💖<br><br>" +
+    "Happy Birthday, my Rasmalaii 💖<br>" +
+    "<b>Miss YOU & I love you endlessly....💖💖💖</b>";
 
   message.classList.add("show");
 
@@ -91,3 +91,4 @@ function floatingPhotos() {
     setTimeout(() => img.remove(), 20000);
   });
 }
+
